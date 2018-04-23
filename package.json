@@ -1,5 +1,5 @@
 {
-  "name": "twit_quarter_feeder",
+  "name": "test_twit",
   "version": "0.0.1",
   "description": "Web app which show last 25 tweets with real-time updating.",
   "main": "js/app.js",

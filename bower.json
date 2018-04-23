@@ -1,5 +1,6 @@
 {
-  "name": "twit_quarter_feeder",
+  "name": "test_twit",
+  "homepage": "https://github.com/kosmail3r/twit_quarter_feeder",
   "authors": [ "Alena Soroka <alenasoroka1993@gmail.com>" ],
   "description": "Web app which show last 25 tweets with real-time updating.",
   "main": "js/app.js",
